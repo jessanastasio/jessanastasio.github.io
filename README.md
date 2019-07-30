@@ -1,1 +1,1 @@
-Jess Anastasio personal website
+Jess Anastasio personal website redirect! My landing page is built in React + needs to be deployed in a separate repo, this redirects there so I'm able to use github pages for hosting
