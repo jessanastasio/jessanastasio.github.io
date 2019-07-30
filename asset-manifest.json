@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04b4593b.chunk.css",
+    "main.js": "/static/js/main.ba772deb.chunk.js",
+    "main.js.map": "/static/js/main.ba772deb.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.f0910273.chunk.js": "/static/js/2.f0910273.chunk.js",
+    "static/js/2.f0910273.chunk.js.map": "/static/js/2.f0910273.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0deacb95f8aa6ca362690e03e987c0ed.js": "/precache-manifest.0deacb95f8aa6ca362690e03e987c0ed.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.04b4593b.chunk.css.map": "/static/css/main.04b4593b.chunk.css.map",
+    "static/media/child.jpg": "/static/media/child.f3b007ca.jpg",
+    "static/media/compbuild.jpg": "/static/media/compbuild.ae1d45f3.jpg",
+    "static/media/happybestbuy.jpg": "/static/media/happybestbuy.0df9f3db.jpg",
+    "static/media/mexico.jpg": "/static/media/mexico.4f61b1d9.jpg",
+    "static/media/myface.jpg": "/static/media/myface.822f1dee.jpg",
+    "static/media/pride.jpg": "/static/media/pride.f2d6a865.jpg",
+    "static/media/resume.pdf": "/static/media/resume.29200930.pdf"
+  }
+}
